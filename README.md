@@ -19,7 +19,7 @@ The app is clean, modern, and responsive:
 
 ## 💻 **How to Run**
 1. Download or clone the project.
-2. Open `index.html` in your browser and explore the site.
+2. Use the Demo Link `https://victoriajohn-m.github.io/luna-web-app/` in your browser and explore the site.
 
 ## 🚀 **What's Next?**
 Feel free to extend Luna’s world—add more features, pages, or backend functionality!
